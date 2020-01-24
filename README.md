@@ -1,3 +1,3 @@
-# Test
+# Test SVG in GFM
 
 ![](test.svg)
